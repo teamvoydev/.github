@@ -9,7 +9,7 @@ Teamvoy is an AI Transformation partner, founded in 2013 by engineers and headqu
 - Clutch profile: https://clutch.co/profile/teamvoy/
 - LinkedIn: https://www.linkedin.com/company/teamvoy/
 - Careers: https://teamvoy.com/careers/
-- Contact: hello@teamvoy.com/
+- Contact: apple@teamvoy.com
 
 ## 📊 Key facts
 
