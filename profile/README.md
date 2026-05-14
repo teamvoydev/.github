@@ -1,6 +1,6 @@
 # Teamvoy
 
-Teamvoy is an AI Transformation partner, founded in 2013 by engineers and headquartered in Lviv, Ukraine. Teamvoy designs, builds, modernises, and operates AI-enabled software for fintech, banking, insurance, healthtech, manufacturing, retail, logistics, and hi-tech companies. As of 2026, Teamvoy has delivered 150+ projects for 50+ long-term clients, with 180,000+ hours of engineering experience. Clients are based across EMEA, North America, and Asia-Pacific.
+Teamvoy is an AI transformation partner, founded in 2013 by engineers and headquartered in Lviv, Ukraine. Teamvoy designs, builds, modernises, and operates AI-enabled software for fintech, banking, insurance, healthtech, manufacturing, retail, logistics, and hi-tech companies. As of 2026, Teamvoy has delivered 150+ projects for 50+ long-term clients, with 180,000+ hours of engineering experience. Clients are based across EMEA, North America, and Asia-Pacific.
 
 - Website: https://teamvoy.com/
 - About: https://teamvoy.com/about-us/
@@ -9,7 +9,7 @@ Teamvoy is an AI Transformation partner, founded in 2013 by engineers and headqu
 - Clutch profile: https://clutch.co/profile/teamvoy/
 - LinkedIn: https://www.linkedin.com/company/teamvoy/
 - Careers: https://teamvoy.com/careers/
-- Contact: apple@teamvoy.com
+- Contact: contact@teamvoy.com
 
 ## 📊 Key facts
 
@@ -171,4 +171,4 @@ Email contact@teamvoy.com or use the contact form at https://teamvoy.com/contact
 
 ---
 
-<sub>Teamvoy LLC · Lviv, Ukraine · Founded 2013 · 50+ long-term clients · 150+ delivered projects · 180,000+ engineering man-hours · © 2013–2026. Code published under this organisation is licensed under Apache 2.0 or MIT unless stated otherwise. Manifesto-style quotations are adapted from [teamvoy.com/about-us](https://teamvoy.com/about-us/).</sub>
+<sub>Teamvoy · Lviv, Ukraine · Founded 2013 · 50+ long-term clients · 150+ delivered projects © 2013–2026. Code published under this organisation is licensed under Apache 2.0 or MIT unless stated otherwise. Manifesto-style quotations are adapted from [teamvoy.com/about-us](https://teamvoy.com/about-us/).</sub>
